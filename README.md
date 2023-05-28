@@ -1,6 +1,12 @@
 # WoW_HC_Bagsfixer
 Tired of looking at the same old six slots bags? While this cant help with increasing the slots, it certainly will make your bags look better.
 
+![image](https://github.com/Spillmaker/WoW_HC_Bagsfixer/assets/696120/d433e234-b55d-4d98-aba7-b2d2bcec6340)
+![image](https://github.com/Spillmaker/WoW_HC_Bagsfixer/assets/696120/505779bf-8700-4481-b743-360ffef36852)
+![image](https://github.com/Spillmaker/WoW_HC_Bagsfixer/assets/696120/eb8358fc-64ce-4c29-abf0-c878f24a54a1)
+
+
+
 # Say what?
 Generally this just overrides the default icons for bags, and replaces them with the onyxia backpack icon.
 
